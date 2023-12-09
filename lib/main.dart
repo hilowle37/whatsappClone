@@ -33,8 +33,8 @@ void main() {
     //   // '/second': (context) => screenTwo()
     // },
     debugShowCheckedModeBanner: false,
-   home: tiktokPractice(),
-    // home: whatsappClone(),
+    //  home: tiktokPractice(),
+    home: whatsappClone(),
   ));
 }
 
